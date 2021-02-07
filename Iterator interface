@@ -1,0 +1,13 @@
+package Iterator;
+
+/**
+ *
+ * @author MSI
+ */
+public interface Iterator {
+    
+    public boolean  hasNext();
+    
+    public Object next ();
+                 
+}
