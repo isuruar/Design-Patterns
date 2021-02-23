@@ -1,2 +1,5 @@
+# Design Patterns
+This is my JS repository where I post my design pattern learnings!
 
-This is where I have saved my learnings on design patterns!
+
+
